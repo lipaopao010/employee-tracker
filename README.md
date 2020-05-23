@@ -3,9 +3,12 @@
 
 ## Description
 
+```
 As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
+```
+
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. In this project,a command-line application can help the user to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
@@ -34,7 +37,6 @@ This appilication allows the user to
 MIT
 
 ## Questions
-![avatar](https://avatars3.githubusercontent.com/u/60334054?v=4)
 
 If you have any questions about the repo, open an issue or contact 
 [lipaopao010](https://github.com/lipaopao010) 
